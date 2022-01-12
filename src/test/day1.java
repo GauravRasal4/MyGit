@@ -16,6 +16,7 @@ public class day1 {
 		System.out.println("User Y");
 		System.out.println("User X");
 		System.out.println("Branch Develop 1");
+		System.out.println("Branch Develop 2");
 		
 	}
 	@Test
