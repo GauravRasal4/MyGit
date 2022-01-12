@@ -26,6 +26,7 @@ public void befoclas()
 		System.out.println(key);
 		System.out.println("User X");
 		System.out.println("Branch Develop 2");
+		System.out.println("Final");
 		
 	}
 	@BeforeMethod
