@@ -24,6 +24,7 @@ public void befoclas()
 		System.out.println("weblogincar");
 		System.out.println(urlname);
 		System.out.println(key);
+		System.out.println("User X");
 		
 	}
 	@BeforeMethod
